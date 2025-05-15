@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Quinn Edenfield
 
-<!--
-**quinneden/quinneden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and learner with an interest in building solutions to problems that exist irl.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Skills & Expertise**:
+  - Programming Languages: Nix, Python, Bash/Zsh
+  - Specialization: Nix/NixOS, Remote systems deployment/orchestration
+- **Interests**:
+  - Exploring emerging technologies such as AI
+  - Free and open-source software
+  - Supporting independent developers
+
+### My Philosophy
+
+I am a **strong** believer in the open-source community. Sharing knowledge, learning from others, and contributing to projects that drive meaningful change are (truly) what fuel my passion as a developer. Especially when it can gently inconvenience profit-obsessed corporations and closed-source empires 😇.
+
+### Projects & Contributions
+- [acmsg](https://github.com/quinneden/acmsg): Automated commit message generator using AI.
+- [NixOS Asahi Installer](https://github.com/quinneden/nixos-asahi-package): A NixOS package and installer for Apple Silicon Macs.
+
+Feel free to explore my repositories to see more of my work and interests.
+
+### Let's Connect
+I'm always open to collaborating on new projects or discussing ideas.
+- **Email**: [quinn@qeden.dev]
