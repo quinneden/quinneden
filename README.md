@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and le
 ### About Me
 
 - **Skills & Expertise**:
-  - Programming Languages: Nix, Python, Bash/Zsh
+  - Programming Languages: Nix, Python, HTML, CSS, Bash/Zsh
   - Specialization: Nix/NixOS, Remote systems deployment/orchestration
 - **Interests**:
   - Exploring emerging technologies such as AI
