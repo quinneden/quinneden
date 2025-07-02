@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and le
 
 ### My Philosophy
 
-I am a **strong** believer in the open-source community. Sharing knowledge, learning from others, and contributing to projects that drive meaningful change are (truly) what fuel my passion as a developer. Especially when it can gently inconvenience profit-obsessed corporations and closed-source empires 😇.
+I am a **strong** believer in the open-source community. Sharing knowledge, learning from others, and contributing to projects that drive meaningful change are (truly) what fuel my passion as a developer.
 
 ### Projects & Contributions
 - [acmsg](https://github.com/quinneden/acmsg): Automated commit message generator using AI.
