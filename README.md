@@ -5,19 +5,20 @@ I'm a passionate developer, problem-solver, and learner with an interest in buil
 ### About Me
 
 - **Skills & Expertise**:
-  - Programming Languages: Nix, Python
-  - Specializations: DevOps, Nix/NixOS, Declarative systems configuration and deployment
+  - Programming Languages: Nix, Python, Bazel/Starlark
+  - Specializations: Nix/NixOS, Infrastructure, Declarative systems configuration and deployment
   - Other skills: Shell scripting & automation, virtualization
 - **Interests**:
   - Linux on Apple Silicon (Asahi)
-  - Artificial Intelligence (ofc)
+  - Artificial Intelligence (duh)
   - Photography
   - Free and open-source software
   - Supporting independent developers
+  - Brain Computer Interfaces
 
 ### My Philosophy
 
-I am a **strong** believer in the open-source community. Sharing knowledge, learning from others, and contributing to projects that drive meaningful change are (truly) what fuel my passion as a developer.
+I am a **strong** believer in open-source. Sharing knowledge, learning from others, and contributing to projects that drive meaningful change are (truly) what fuel my passion as a developer.
 
 ### Projects & Contributions
 - [virby-nix-darwin](https://github.com/quinneden/virby-nix-darwin): A vfkit-based linux builder for Nix-darwin.
